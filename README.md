@@ -46,16 +46,6 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pchiranjeevi06&theme=vue" />
 </p>
 
-### ✍️Random Dev Quote
-
-![](https://www.azquotes.com/vangogh-image-quotes/83/16/Quotation-Albert-Einstein-Imagination-is-more-important-than-knowledge-Imagination-is-the-language-83-16-06.jpg)
-
----
-[![](https://visitcount.itsvg.in/api?id=Pchiranjeevi06&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
 
 </div>
 
