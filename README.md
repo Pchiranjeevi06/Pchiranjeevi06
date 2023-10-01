@@ -13,7 +13,7 @@
 - 🌱 I’m still learning more about Data Structures algorithms and Machine Learning.
 - 💬 Ask me about any tech-related stuff.
 - ⚡ I spend almost 3 hours listening to music every day while coding
-- 📫 reach me *prudhvivenkatachiranjeevi@gmail.com (or) chiranjeevipathipati@gmail.com*
+- 📫 reach me *prudhvivenkatachiranjeevi@gmail.com (or) chiranjeevipathipati2002@gmail.com*
 
 
 ## 🌐 Social
